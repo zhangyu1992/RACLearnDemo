@@ -1,0 +1,6 @@
+module Pods_RACLearnDemo {
+  umbrella header "Pods-RACLearnDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,24 @@
+PODS:
+  - ReactiveCocoa (8.0.0):
+    - ReactiveSwift (~> 4.0)
+  - ReactiveSwift (4.0.0):
+    - Result (~> 4.0)
+  - Result (4.0.0)
+
+DEPENDENCIES:
+  - ReactiveCocoa
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - ReactiveCocoa
+    - ReactiveSwift
+    - Result
+
+SPEC CHECKSUMS:
+  ReactiveCocoa: 87cb64d78424d749a0bbfd9b07e4825e8d834066
+  ReactiveSwift: a2bb9ace428a109e9c0209615645d9d286c8c433
+  Result: 7645bb3f50c2ce726dd0ff2fa7b6f42bbe6c3713
+
+PODFILE CHECKSUM: d0248c45c4b5029a27f249bd5e02f7f259fc0bbb
+
+COCOAPODS: 1.5.3
